@@ -4,13 +4,13 @@ This project was developed exclusively for the purposes of the hackathon and doe
 
 📌 License: All rights reserved. Unauthorized use, modification, or distribution is prohibited.
 
-# BlueDot Impact Connect
+# Impact Connect
 
 A modern web platform connecting AI safety professionals and enthusiasts globally through mentorship, community collaboration, and educational resources.
 
 ## 🚀 Project Overview
 
-BlueDot Impact Connect is a comprehensive platform designed to foster connections within the AI safety community, providing:
+Impact Connect is a comprehensive platform designed to foster connections within the AI safety community, providing:
 
 - **Personalized Mentorship**: Connect with experienced AI safety professionals
 - **Global Community Hub**: Join specialized groups, forums, and virtual events
@@ -54,3 +54,5 @@ This platform aims to bridge the gap between different regions and backgrounds i
    ```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+⚙️ The platform prototype was developed using Claude 3.7 for code generation, with manual modifications and deployment to ensure full functionality.
