@@ -1,3 +1,9 @@
+Research conducted at the Women in AI Safety Hackathon (7–10 March 2025) in collaboration with Apart Research and BlueDot Impact.
+
+This project was developed exclusively for the purposes of the hackathon and does not represent an official product or initiative of Apart Research, BlueDot Impact, or any affiliated organization.
+
+This repository was made public for hackathon judging only and, in line with best practices, will be made private/deleted after the event to ensure proper handling of affiliations, attributions, and organizational references.
+
 # BlueDot Impact Connect
 
 A modern web platform connecting AI safety professionals and enthusiasts globally through mentorship, community collaboration, and educational resources.
