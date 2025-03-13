@@ -281,7 +281,7 @@ I'm seeking mentorship to help refine my research direction and connect with the
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <div className="text-xl font-bold text-purple-600">
-                BlueDot Impact Mentorship
+                Impact Connect Mentorship
               </div>
             </div>
             <div className="flex items-center">

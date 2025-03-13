@@ -9,7 +9,7 @@ const Hero = () => {
             Connect, Learn, and Grow in AI Safety—Globally
           </h1>
           <p className="text-[1.2rem] text-[#555] mb-8">
-            Join BlueDot Impact Connect to find mentorship, expand your network, and collaborate 
+            Join Impact Connect to find mentorship, expand your network, and collaborate 
             with a global community dedicated to ensuring AI systems are safe and beneficial for 
             humanity, regardless of your geographic location or background.
           </p>

@@ -7,7 +7,7 @@ const Benefits = () => {
         <div className="section-header text-center mb-12">
           <h2 className="text-[2.5rem] text-[#333] font-bold mb-4">Key Benefits</h2>
           <p className="max-w-[700px] mx-auto text-[#666]">
-            BlueDot Impact Connect helps you accelerate your learning, expand
+            Impact Connect helps you accelerate your learning, expand
             your network, and make meaningful contributions to AI safety
           </p>
         </div>

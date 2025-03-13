@@ -14,7 +14,7 @@ const Header = () => {
       <div className="container flex justify-between items-center">
         <div className="flex items-center">
           <div className="text-[1.4rem] font-bold">
-            BlueDot<span className="text-[var(--primary-color)]">Impact</span> Connect
+            <span className="text-[var(--primary-color)]">Impact</span> Connect
           </div>
         </div>
         

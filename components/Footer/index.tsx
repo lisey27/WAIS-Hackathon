@@ -8,7 +8,7 @@ const Footer = () => {
           <div className="lg:col-span-1">
             <div className="flex items-center mb-4">
               <div className="text-[1.2rem] font-bold text-[var(--white)]">
-                BlueDot<span className="text-[var(--primary-color)]">Impact</span> Connect
+                <span className="text-[var(--primary-color)]">Impact</span> Connect
               </div>
             </div>
             <p>
@@ -50,7 +50,7 @@ const Footer = () => {
         </div>
         
         <div className="pt-8 text-center text-[0.9rem] border-t border-[#3A3A3A]">
-          <p>&copy; 2025 BlueDot Impact. All rights reserved.</p>
+          <p>&copy; 2025 Elise Racine. All rights reserved.</p>
         </div>
       </div>
     </footer>

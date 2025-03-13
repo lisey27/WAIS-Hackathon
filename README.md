@@ -35,8 +35,8 @@ This platform aims to bridge the gap between different regions and backgrounds i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/bluedot-impact-connect.git
-   cd bluedot-impact-connect
+   git clone https://github.com/lisey27/WAIS-Hackathon.git
+   cd WAIS-Hackathon
    ```
 
 2. Install dependencies:

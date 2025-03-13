@@ -8,8 +8,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "BlueDot Impact Connect | AI Safety Community & Mentorship",
-  description: "BlueDot Impact Connect is a community and mentorship platform for AI safety enthusiasts. Join us to connect with like-minded individuals, share knowledge, and make a positive impact in the field of AI safety.",
+  title: "Impact Connect | AI Safety Community & Mentorship",
+  description: "Impact Connect is a community and mentorship platform for AI safety enthusiasts. Join us to connect with like-minded individuals, share knowledge, and make a positive impact in the field of AI safety.",
 };
 
 export default function RootLayout({

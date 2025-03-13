@@ -451,7 +451,7 @@ const CommunityHub = () => {
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <div className="text-xl font-bold">
-                <Link href="/"><span className="text-gray-900">BlueDot Impact</span></Link>
+                <Link href="/"><span className="text-gray-900">Impact Connect</span></Link>
                 <span className="text-gray-500"> | </span>
                 <span className="text-purple-600">Community</span>
               </div>

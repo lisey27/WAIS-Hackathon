@@ -7,7 +7,7 @@ const Features = () => {
         <div className="section-header">
           <h2 className="text-[2.5rem] text-[#333] font-bold mb-4">Our Platform</h2>
           <p className="max-w-[700px] mx-auto text-[#666]">
-            BlueDot Impact Connect offers two powerful ways to engage with the AI safety community and accelerate your growth
+            Impact Connect offers two powerful ways to engage with the AI safety community and accelerate your growth
           </p>
         </div>
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-12">

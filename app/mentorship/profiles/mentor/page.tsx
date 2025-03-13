@@ -265,7 +265,7 @@ Sarah is passionate about ensuring AI systems are developed safely and responsib
           <div className="flex justify-between h-16">
             <div className="flex items-center">
               <div className="text-xl font-bold text-purple-600">
-                BlueDot Impact Mentorship
+                Impact Connect Mentorship
               </div>
             </div>
             <div className="flex items-center">
