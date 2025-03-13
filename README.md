@@ -55,4 +55,4 @@ This platform aims to bridge the gap between different regions and backgrounds i
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
 
-⚙️ The platform prototype was developed using Claude 3.7 for code generation, with manual modifications and deployment to ensure full functionality.
+⚙️ The platform prototype was developed using Claude 3.7 for code generation, which was then modified to make functional and deployed.
